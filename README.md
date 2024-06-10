@@ -1,4 +1,4 @@
-# FACIAL RECOGNITION ATTENDANCE SYSTEM
+#CODEXO - A FACIAL RECOGNITION ATTENDANCE SYSTEM
 
 Overview
 This project is a Face Recognition Attendance System using OpenCV and the face_recognition library. The system captures video from a webcam, recognizes known faces, and logs the attendance with the current time in a CSV file.
@@ -16,13 +16,13 @@ numpy
 
 #INSTALLATION
 1. Clone the repository:
-git clone https://github.com/aryan-91/face-recognition-attendance-system.git
+git clone https://github.com/aryan-91/codexo.git
 cd face-recognition-attendance-system
-2. Install the required packages:
+3. Install the required packages:
 pip install opencv-python
 pip install face_recognition
 pip install numpy
-3. Place your images of known faces in the project directory and update the paths in the script accordingly.
+4. Place your images of known faces in the project directory and update the paths in the script accordingly.
    
 #Usage
 1. Run the script:
