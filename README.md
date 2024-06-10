@@ -9,10 +9,10 @@ Attendance logging with date and time
 Stores attendance data in a CSV file
 
 #Requirements
-Python 3.x
-OpenCV
-face_recognition
-numpy
+1. Python 3.x
+2. OpenCV
+3. face_recognition
+4. numpy
 
 #INSTALLATION
 1. Clone the repository:
