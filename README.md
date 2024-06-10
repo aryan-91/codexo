@@ -16,7 +16,7 @@ numpy
 
 #INSTALLATION
 1. Clone the repository:
-git clone https://github.com/yourusername/face-recognition-attendance-system.git
+git clone https://github.com/aryan-91/face-recognition-attendance-system.git
 cd face-recognition-attendance-system
 2. Install the required packages:
 pip install opencv-python
