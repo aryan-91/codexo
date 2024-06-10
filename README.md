@@ -48,8 +48,10 @@ Adding Known Faces: Place images of known faces in the project directory and upd
 5. Submit a pull request.
 
 #Acknowledgements
+
 This project uses the face_recognition library by Adam Geitgey.
 
 #Contact
+
 Created by ARYAN PANDEY - feel free to contact me!
 
